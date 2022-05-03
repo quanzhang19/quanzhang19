@@ -1,6 +1,6 @@
 # 🤡 Hi, I’m Zhang Quan
 - 🛺 I’m interested in solving problems and making data-driven decisions for businesses
-- 🌱 I’m currently learning Java, python, git, terminal and zsh
+- 🌱 I’m currently learning Java, python, git, terminal, zsh, bash
 - 🏰 I’m looking to collaborate on some cool projects!
 
 ## 📇 Contact Me 
